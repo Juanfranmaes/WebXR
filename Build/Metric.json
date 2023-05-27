@@ -3,7 +3,7 @@
 "productName": "Metric2",
 "productVersion": "0.1",
 "dataUrl": "Metric.data.unityweb",
-"wasmCodeUrl": "Metric.wasm",
+"wasmCodeUrl": "Metric.wasm.code.unityweb",
 "wasmFrameworkUrl": "Metric.wasm.framework.unityweb",
 "graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
